@@ -1,35 +1,60 @@
+# Python dev
 
-# Python dev / reverse engineer
-
-16 y/o. Been coding since 2025. Python only. Building tools, learning reverse engineering, and having fun with code.
+16 yo Been coding since 2025, i like learning and building tools people actually use.
 
 ---
 
 **n1tr00**  
 n1tr00-10  
 
-*I'm not currently doing anything!*
+---
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-- Python
-- Python
-- Python
-- Python
-- Python
-- Python
+## About me
+
+- 16 years old
+- Started coding in 2025
+- Python is my main language
+- Self-taught
+- I build stuff because it's fun
+- Always learning something new
+- Interested in how things work under the hood
 
 ---
+
+## What I do
 
 - Reverse engineering (learning)
 - Building automation tools
 - Cybersecurity (learning)
 - Network engineering (learning)
 - Python scripting
+- Web scraping
+- API development
 
 ---
 
-## My projects
+## Skills
+
+| Category | Skills |
+|----------|--------|
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| Tools | Ghidra, Frida, Burp Suite, Wireshark, mitmproxy |
+| Network | HTTP/HTTPS, TCP/IP, DNS, TLS/SSL |
+| Reverse Eng | Android, Binary analysis, Debugging |
+| Automation | Web scraping, Bot development, API automation |
+
+---
+
+## Projects I've worked on
 
 | Project | Description |
 |---------|-------------|
@@ -41,7 +66,18 @@ n1tr00-10
 
 ---
 
-## Tools I use
+## Currently learning
+
+- Reverse engineering Android apps
+- Network protocols (TCP/UDP/HTTP/HTTPS)
+- How TLS/HTTPS works
+- Binary exploitation
+- Python internals
+- Malware analysis
+
+---
+
+## Tools I use daily
 
 - Python 3
 - Ghidra
@@ -49,7 +85,9 @@ n1tr00-10
 - Burp Suite
 - Wireshark
 - mitmproxy
-- http.toolkit
+- VS Code
+- Git
+
 ---
 
 ## GitHub Stats
@@ -58,13 +96,15 @@ n1tr00-10
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n1tr00-10&layout=compact&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n1tr00-10&theme=dark)
+
 ---
 
 ## Contact
 
-- Discord: `n1tr00`
-- Telegram: `@n1tr00`
+- Discord: `n.1t.r.`
+- GitHub: [n1tr00-10](https://github.com/n1tr00-10)
 
 ---
 
-*Stay curious. Keep breaking things.*
+*"Stay curious. Keep breaking things."*
