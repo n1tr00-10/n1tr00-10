@@ -1,6 +1,6 @@
 # Python dev
 
-16 yo Been coding since 2025, i like learning and building tools people actually use.
+16 yo Been coding since 2025, i like learning and building tools for fun
 
 ---
 
