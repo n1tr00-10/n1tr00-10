@@ -10,7 +10,7 @@ n1tr00-10
 ---
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
--![Bat](https://img.shields.io/badge/bat-grey?style=for-the-badge&logo=bat)
+![Bat](https://img.shields.io/badge/bat-grey?style=for-the-badge&logo=bat)
 
 ---
 
