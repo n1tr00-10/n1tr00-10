@@ -42,7 +42,7 @@ n1tr00-10
 
 | Category | Skills |
 |----------|--------|
-| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)-![Bat](https://img.shields.io/badge/bat-grey?style=for-the-badge&logo=bat) |
 | Tools | Ghidra, Frida, Burp Suite, Wireshark, mitmproxy |
 | Network | HTTP/HTTPS, TCP/IP, DNS, TLS/SSL |
 | Reverse Eng | Android, Binary analysis, Debugging |
