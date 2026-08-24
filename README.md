@@ -100,7 +100,7 @@ n1tr00-10
 
 - Discord: `n.1t.r.`
 - GitHub: [n1tr00-10](https://github.com/n1tr00-10)
-
+- telegram:@mjjgas728
 ---
 
 *"Stay curious. Keep breaking things."*
