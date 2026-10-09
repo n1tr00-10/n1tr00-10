@@ -98,7 +98,7 @@ n1tr00-10
 
 ## Contact
 
-- Discord: `n.1t.r.`
+- Discord: `n1tr_00`
 - GitHub: [n1tr00-10](https://github.com/n1tr00-10)
 - telegram:@mjjgas728
 ---
